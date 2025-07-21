@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build _deps/swgtk-build/SWGTK/CMakeFiles/swgtk.dir/engine/src/App.cpp.obj: dyndep
+
+build _deps/swgtk-build/SWGTK/CMakeFiles/swgtk.dir/engine/src/Scene.cpp.obj: dyndep
+
+build _deps/swgtk-build/SWGTK/CMakeFiles/swgtk.dir/engine/src/FontGroup.cpp.obj: dyndep
+
+build _deps/swgtk-build/SWGTK/CMakeFiles/swgtk.dir/engine/src/Simple2DRenderer.cpp.obj: dyndep
+

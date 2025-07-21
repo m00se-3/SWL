@@ -1,0 +1,21 @@
+# ninja log v6
+2	82	7744162171448409	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-mkdir	bbc5bf033b2eee5f
+2	82	7744162171448409	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-mkdir	bbc5bf033b2eee5f
+82	6798	7744162238622257	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-download	a8538a8c17239a9c
+82	6798	7744162238622257	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-download	a8538a8c17239a9c
+6799	6993	7744162238663895	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-update	ca64212b49299436
+6799	6993	7744162238663895	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-update	ca64212b49299436
+6997	7071	7744162241363931	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-patch	9b4b0f0f2d14df27
+6997	7071	7744162241363931	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-patch	9b4b0f0f2d14df27
+7071	7145	7744162242103611	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-configure	391d73ac05e2d3e
+7071	7145	7744162242103611	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-configure	391d73ac05e2d3e
+7145	7242	7744162243008544	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-build	67d78ee018745e47
+7145	7242	7744162243008544	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-build	67d78ee018745e47
+7242	7334	7744162243986107	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-install	19f137573bacf66a
+7242	7334	7744162243986107	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-install	19f137573bacf66a
+7334	7415	7744162244801661	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-test	637dc4b618ea5526
+7334	7415	7744162244801661	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-test	637dc4b618ea5526
+7415	7529	7744162245935145	CMakeFiles/sol2-populate-complete	8e281a282a58305
+7415	7529	7744162245935145	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-done	8e281a282a58305
+7415	7529	7744162245935145	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/CMakeFiles/sol2-populate-complete	8e281a282a58305
+7415	7529	7744162245935145	C:/CppProjects/SWL/build/x64-debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-done	8e281a282a58305

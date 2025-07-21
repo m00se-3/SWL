@@ -1,0 +1,21 @@
+# ninja log v6
+2	77	7744165450591557	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-mkdir	ea794deb281d5dde
+2	77	7744165450591557	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-mkdir	ea794deb281d5dde
+78	71400	7744166163864588	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-download	944d528ea5d89b2b
+78	71400	7744166163864588	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-download	944d528ea5d89b2b
+71400	71606	7744166163903133	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-update	8aab8976f855dc5f
+71400	71606	7744166163903133	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-update	8aab8976f855dc5f
+71613	71694	7744166166809543	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-patch	3ffe2cf626cae934
+71613	71694	7744166166809543	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-patch	3ffe2cf626cae934
+71694	71773	7744166167533233	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-configure	9af003fbf68e0dcd
+71694	71773	7744166167533233	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-configure	9af003fbf68e0dcd
+71774	71858	7744166168458297	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-build	4ac491621138f17c
+71774	71858	7744166168458297	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-build	4ac491621138f17c
+71858	71954	7744166169372399	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-install	74dae73ebdcc01aa
+71858	71954	7744166169372399	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-install	74dae73ebdcc01aa
+71954	72033	7744166170188462	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-test	92f4f02e0a9d82b9
+71954	72033	7744166170188462	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-test	92f4f02e0a9d82b9
+72033	72155	7744166171418446	CMakeFiles/sdl3_ttf-populate-complete	184997947d724d96
+72033	72155	7744166171418446	sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-done	184997947d724d96
+72033	72155	7744166171418446	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/CMakeFiles/sdl3_ttf-populate-complete	184997947d724d96
+72033	72155	7744166171418446	C:/CppProjects/SWL/build/x64-debug/_deps/sdl3_ttf-subbuild/sdl3_ttf-populate-prefix/src/sdl3_ttf-populate-stamp/sdl3_ttf-populate-done	184997947d724d96

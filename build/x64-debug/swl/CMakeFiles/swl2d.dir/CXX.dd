@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build swl/CMakeFiles/swl2d.dir/swl2d.cpp.obj: dyndep
+
+build swl/CMakeFiles/swl2d.dir/LuaGame.cpp.obj: dyndep
+

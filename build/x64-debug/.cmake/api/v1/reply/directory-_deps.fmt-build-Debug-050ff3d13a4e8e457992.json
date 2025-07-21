@@ -1,0 +1,142 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			".cache/CPM/fmt/6df8/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 429,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 444,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 447,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 451,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "fmt-core",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/fmt-build/fmtd.lib"
+			],
+			"targetId" : "fmt::@976f4f0bee90b99ecdb6",
+			"targetIndex" : 34,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "fmt-core",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"fmtd.dll"
+			],
+			"targetId" : "fmt::@976f4f0bee90b99ecdb6",
+			"targetIndex" : 34,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "fmt-core",
+			"destination" : "include/fmt",
+			"paths" : 
+			[
+				".cache/CPM/fmt/6df8/include/fmt/args.h",
+				".cache/CPM/fmt/6df8/include/fmt/base.h",
+				".cache/CPM/fmt/6df8/include/fmt/chrono.h",
+				".cache/CPM/fmt/6df8/include/fmt/color.h",
+				".cache/CPM/fmt/6df8/include/fmt/compile.h",
+				".cache/CPM/fmt/6df8/include/fmt/core.h",
+				".cache/CPM/fmt/6df8/include/fmt/format.h",
+				".cache/CPM/fmt/6df8/include/fmt/format-inl.h",
+				".cache/CPM/fmt/6df8/include/fmt/os.h",
+				".cache/CPM/fmt/6df8/include/fmt/ostream.h",
+				".cache/CPM/fmt/6df8/include/fmt/printf.h",
+				".cache/CPM/fmt/6df8/include/fmt/ranges.h",
+				".cache/CPM/fmt/6df8/include/fmt/std.h",
+				".cache/CPM/fmt/6df8/include/fmt/xchar.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "fmt-core",
+			"destination" : "lib/cmake/fmt",
+			"paths" : 
+			[
+				"build/x64-debug/_deps/fmt-build/fmt-config.cmake",
+				"build/x64-debug/_deps/fmt-build/fmt-config-version.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "fmt-core",
+			"destination" : "lib/cmake/fmt",
+			"exportName" : "fmt-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "fmt::@976f4f0bee90b99ecdb6",
+					"index" : 34
+				},
+				{
+					"id" : "fmt-header-only::@976f4f0bee90b99ecdb6",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/fmt-build/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "fmt-core",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/x64-debug/_deps/fmt-build/fmt.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/fmt-build",
+		"source" : ".cache/CPM/fmt/6df8"
+	}
+}

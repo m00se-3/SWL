@@ -1,0 +1,21 @@
+# ninja log v6
+2	79	7744163625594441	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-mkdir	aff9e1107f5baa03
+2	79	7744163625594441	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-mkdir	aff9e1107f5baa03
+80	180243	7744165427227757	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-download	d59bf54832498213
+80	180243	7744165427227757	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-download	d59bf54832498213
+180244	180442	7744165427316097	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-update	afe3edc87bb9be45
+180244	180442	7744165427316097	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-update	afe3edc87bb9be45
+180442	180523	7744165429987310	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-patch	62100bda7ca55505
+180442	180523	7744165429987310	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-patch	62100bda7ca55505
+180524	180603	7744165430816941	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-configure	13f7ce6f7b891676
+180524	180603	7744165430816941	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-configure	13f7ce6f7b891676
+180603	180685	7744165431644631	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-build	50bdd66082e0e6fa
+180603	180685	7744165431644631	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-build	50bdd66082e0e6fa
+180685	180760	7744165432338674	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-install	4d007d1ba72c3cf
+180685	180760	7744165432338674	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-install	4d007d1ba72c3cf
+180761	180841	7744165433213537	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-test	a5f5b001b2185480
+180761	180841	7744165433213537	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-test	a5f5b001b2185480
+180841	180956	7744165434357204	CMakeFiles/sdl_image-populate-complete	c3c31b4835b19dc9
+180841	180956	7744165434357204	sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-done	c3c31b4835b19dc9
+180841	180956	7744165434357204	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/CMakeFiles/sdl_image-populate-complete	c3c31b4835b19dc9
+180841	180956	7744165434357204	C:/CppProjects/SWL/build/x64-debug/_deps/sdl_image-subbuild/sdl_image-populate-prefix/src/sdl_image-populate-stamp/sdl_image-populate-done	c3c31b4835b19dc9

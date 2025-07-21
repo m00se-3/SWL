@@ -1,0 +1,21 @@
+# ninja log v6
+2	88	7744162251895809	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	1d1d2f16d86acc90
+2	88	7744162251895809	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	1d1d2f16d86acc90
+88	11709	7744162368140986	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	ae52f1068815051f
+88	11709	7744162368140986	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	ae52f1068815051f
+11709	11927	7744162368200333	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	18b49a8086c3a216
+11709	11927	7744162368200333	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	18b49a8086c3a216
+11933	12006	7744162371077700	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	562dd28f3ec7494c
+11933	12006	7744162371077700	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	562dd28f3ec7494c
+12006	12083	7744162371891165	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	bea538d7ecb985ea
+12006	12083	7744162371891165	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	bea538d7ecb985ea
+12084	12157	7744162372637423	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	a5247354d41a5886
+12084	12157	7744162372637423	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	a5247354d41a5886
+12157	12236	7744162373415570	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	aa9a566e08cf49f2
+12157	12236	7744162373415570	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	aa9a566e08cf49f2
+12237	12312	7744162374056714	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	be29ccffdbcbb972
+12237	12312	7744162374056714	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	be29ccffdbcbb972
+12313	12411	7744162375157757	CMakeFiles/freetype-populate-complete	8bea8c2ececa5f44
+12313	12411	7744162375157757	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	8bea8c2ececa5f44
+12313	12411	7744162375157757	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	8bea8c2ececa5f44
+12313	12411	7744162375157757	C:/CppProjects/SWL/build/x64-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	8bea8c2ececa5f44

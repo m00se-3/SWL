@@ -1,0 +1,51 @@
+{
+	"bmi-installation" : 
+	{
+		"destination" : "bin",
+		"message-level" : "",
+		"permissions" : "",
+		"script-location" : "C:/CppProjects/SWL/build/x64-debug/swl/CMakeFiles/swl2d.dir/install-cxx-module-bmi-Debug.cmake"
+	},
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "MSVC",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/CppProjects/SWL/build/x64-debug/swl",
+	"dir-cur-src" : "C:/CppProjects/SWL/swl",
+	"dir-top-bld" : "C:/CppProjects/SWL/build/x64-debug",
+	"dir-top-src" : "C:/CppProjects/SWL",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\CppProjects\\SWL\\swl",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\swgtk\\4dee\\SWGTK\\engine\\include",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\lua\\3511",
+		"_deps\\sdl-build\\include-revision",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\sdl\\1b4d\\include",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\sdl_image\\25f5\\include",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\sdl3_ttf\\96b6\\include",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\sol2\\bb71\\include",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\fmt\\6df8\\include",
+		"_deps\\freetype-build\\include",
+		"C:\\CppProjects\\SWL\\.cache\\CPM\\freetype\\82b8\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/CppProjects/SWL/build/x64-debug/swl/CMakeFiles/swl2d.dir",
+	"sources" : 
+	{
+		"swl/CMakeFiles/swl2d.dir/LuaGame.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/CppProjects/SWL/swl/LuaGame.cpp"
+		},
+		"swl/CMakeFiles/swl2d.dir/swl2d.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/CppProjects/SWL/swl/swl2d.cpp"
+		}
+	}
+}

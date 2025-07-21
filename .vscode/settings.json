@@ -1,0 +1,21 @@
+{
+    "Lua.diagnostics.globals": [
+        "swgtk",
+        "FontStyle"
+    ],
+    "Lua.completion.showWord": "Enable",
+    "Lua.completion.workspaceWord": true,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "clangd.arguments": [
+        "--experimental-modules-support"
+    ],
+    "cpp-checker.cppcheck.--std_c++=": "c++20",
+    "cpp-checker.cppcheck.--customargs=": "--clang",
+    "cpp-checker.cppcheck.--suppress=": [
+        "unknownMacro",
+        "unmatchedSuppression",
+        "missingIncludeSystem"
+    ],
+    "cpp-checker.cpplint.--enable": false
+    
+}

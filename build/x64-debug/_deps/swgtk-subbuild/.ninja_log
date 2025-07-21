@@ -1,0 +1,21 @@
+# ninja log v6
+2	78	7744173148311987	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-mkdir	72b59202713eee0
+2	78	7744173148311987	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-mkdir	72b59202713eee0
+78	2484	7744173172467334	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-download	e9ec099944e8686a
+78	2484	7744173172467334	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-download	e9ec099944e8686a
+2484	4827	7744173172545154	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-update	96d9e9b5045784a9
+2484	4827	7744173172545154	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-update	96d9e9b5045784a9
+4832	4905	7744173196690434	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-patch	c883a4938f69a593
+4832	4905	7744173196690434	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-patch	c883a4938f69a593
+4905	4978	7744173197421281	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-configure	30e8bb982597027f
+4905	4978	7744173197421281	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-configure	30e8bb982597027f
+4978	5051	7744173198064207	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-build	7d2041c26c371f37
+4978	5051	7744173198064207	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-build	7d2041c26c371f37
+5051	5125	7744173198861849	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-install	724d22d95b8812cf
+5051	5125	7744173198861849	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-install	724d22d95b8812cf
+5125	5198	7744173199623384	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-test	d721432daa5c4a24
+5125	5198	7744173199623384	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-test	d721432daa5c4a24
+5198	5300	7744173200631991	CMakeFiles/swgtk-populate-complete	6374052371823a11
+5198	5300	7744173200631991	swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-done	6374052371823a11
+5198	5300	7744173200631991	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/CMakeFiles/swgtk-populate-complete	6374052371823a11
+5198	5300	7744173200631991	C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/swgtk-populate-prefix/src/swgtk-populate-stamp/swgtk-populate-done	6374052371823a11

@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "swl\\CMakeFiles\\swl2d.dir\\LuaGame.cpp.obj"
+    }
+  ],
+  "version": 1
+}
