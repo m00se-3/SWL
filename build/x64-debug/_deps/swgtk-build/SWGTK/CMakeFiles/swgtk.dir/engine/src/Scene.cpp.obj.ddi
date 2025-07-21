@@ -1,9 +1,0 @@
-{
-  "revision": 0,
-  "rules": [
-    {
-      "primary-output": "_deps\\swgtk-build\\SWGTK\\CMakeFiles\\swgtk.dir\\engine\\src\\Scene.cpp.obj"
-    }
-  ],
-  "version": 1
-}

@@ -1,3 +1,0 @@
-C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/CMakeFiles/swgtk-populate.dir
-C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/CMakeFiles/edit_cache.dir
-C:/CppProjects/SWL/build/x64-debug/_deps/swgtk-subbuild/CMakeFiles/rebuild_cache.dir

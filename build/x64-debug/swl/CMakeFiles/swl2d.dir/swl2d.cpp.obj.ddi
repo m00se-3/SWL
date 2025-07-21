@@ -1,9 +1,0 @@
-{
-  "revision": 0,
-  "rules": [
-    {
-      "primary-output": "swl\\CMakeFiles\\swl2d.dir\\swl2d.cpp.obj"
-    }
-  ],
-  "version": 1
-}
