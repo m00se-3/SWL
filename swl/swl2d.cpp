@@ -34,13 +34,12 @@ int main (const int argc, const char** argv) {
             const auto& h = (options.contains("--height")) ? std::stoi(options.at("--height")) : swl::def_h;
 
             if(auto swl2d = swgtk::App{}; swl2d.InitGraphics(title.c_str(), w, h, swgtk::Simple2DRenderer::Create())) {
-
                 swl2d.MakeScene<swgtk::LuaGame>(startupFile, &swl2d);
             }
         } else {
             throw std::runtime_error("No startup file provided.");
         }
     } catch (const std::exception& e) {
-        fmt::print(stderr, "Exception occurred: {}\n", e.what());
+        std::puts(std::format("Exception occurred: {}\n", e.what()).c_str());
     }
 }

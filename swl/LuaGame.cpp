@@ -11,8 +11,10 @@
     SOFTWARE.
 */
 #include <LuaGame.hpp>
+#include <swgtk/Lua.hpp>
 #include <string>
-#include <fmt/format.h>
+#include <format>
+#include <swgtk/Simple2DRenderer.hpp>
 
 #include "swgtk/App.hpp"
 
@@ -20,13 +22,14 @@ namespace swgtk {
 
     namespace {
         inline void panic(const sol::optional<std::string>& msg) {
-            fmt::print(stderr, "Exception occurred: {}\n", msg.value_or("Unknown error."));
+            std::puts(std::format("Exception occurred: {}\n", msg.value_or("Unknown error.")).c_str());
         }
     }
 
     LuaGame::LuaGame(const swgtk::ObjectRef<Scene>& scene, const std::filesystem::path& path, App* app)
     : Node(scene), _lua(sol::c_call<decltype(&panic), &panic>) {
-        app->InitLua(_lua, LuaPrivledges::All);
+        swgtk::InitLua(app, _lua, LuaPrivledges::All);
+        scene->AppRenderer<Simple2DRenderer>()->InitLua(&_lua);
 
         if(std::filesystem::exists(path) && path.extension() == ".lua") {
 
@@ -50,7 +53,7 @@ namespace swgtk {
             }
 
         } else {
-            throw std::runtime_error(fmt::format("No startup file provided: {}", path.string()));
+            throw std::runtime_error(std::format("No startup file provided: {}", path.string()));
         }
     }
 

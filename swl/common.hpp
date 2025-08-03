@@ -19,7 +19,6 @@
 #include <array>
 #include <string>
 #include <unordered_map>
-#include <fmt/format.h>
 
 static constexpr auto argumentPatterns = std::array {
     "--width",

@@ -11,7 +11,8 @@ include("CPM.cmake")
 include("cmake/Config.cmake")
 include(CTest)
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR})
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/examples)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/examples)
 
 # Add CCache, if available
 
@@ -19,7 +20,13 @@ if(CCACHE_PROGRAM)
 
   message("-- Enabling ccache.\n")
   set(CMAKE_CXX_COMPILER_LAUNCHER ${CCACHE_PROGRAM})
-  set(CPM_SOURCE_CACHE ${CMAKE_CURRENT_LIST_DIR}/.cache/CPM)
+
+  # If you have the SWGTK framework stored locally, you can specify where with "CPM_SWGTK_SOURCE"
+  if(CPM_SWGTK_SOURCE)
+    set(CPM_SOURCE_CACHE ${CPM_SWGTK_SOURCE}/.cache/CPM)
+  else()
+      set(CPM_SOURCE_CACHE ${CMAKE_CURRENT_LIST_DIR}/.cache/CPM)
+  endif()
   
 endif()
 

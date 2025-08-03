@@ -4,7 +4,7 @@ function main()
     if swgtk.OnCreate() then
         while swgtk.App:IsAppRunning() do
             swgtk.App:EventsAndTimeStep()
-            if not swgtk.OnUpdate(swgtk.App.DeltaTime:GetSeconds()) then swgtk.App:CloseApp() end
+            if not swgtk.OnUpdate(swgtk.App.DeltaTime()) then swgtk.App:CloseApp() end
             swgtk.Render:BufferPresent()
         end
     end

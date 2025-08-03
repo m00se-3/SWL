@@ -72,7 +72,6 @@ install(
     SDL3-shared 
     SDL3_image-shared 
     SDL3_ttf-shared 
-    fmt 
     freetype
 
     DESTINATION 
